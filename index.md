@@ -1,12 +1,17 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-title: Home
-layout: home
+title: MyHealthHaven
+layout: default
 ---
-Welcome to My Health Haven! Explore our blog for practical health and fitness tips to help you live a better life.
 
+# MyHealthHaven
+
+## Navigation
+- [Home](#home)
+- [About](#about)
+- [Contact](#contact)
+
+## Welcome to MyHealthHaven
+This is your website's main content. Add your text, images, or other content here.
+
+---
+*© 2025 MyHealthHaven*
