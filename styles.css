@@ -13,7 +13,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  text-align: center;
+  text-align: center !important; /* Override any theme styles */
   font-family: Arial, sans-serif;
 }
 
