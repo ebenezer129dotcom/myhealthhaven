@@ -1,6 +1,8 @@
+---
 title: MyHealthHaven
 description: Your go-to resource for health and wellness information.
-theme: jekyll-theme-cayman
-show_downloads: false
-plugins:
-  - jekyll-seo-tag
+minima:
+  skin: classic
+  include_css:
+    - assets/css/styles.css
+
