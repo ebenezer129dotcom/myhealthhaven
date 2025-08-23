@@ -1,8 +1,14 @@
----
-title: MyHealthHaven
-description: Your go-to resource for health and wellness information.
+title: My Health Blog
+author: Your Name
+description: Tips and inspiration for a healthier lifestyle.
+baseurl: "myhealthhaven" # the subpath of your site, e.g. /blog
+url: "https://ebenezer129dotcom.github.io/myhealthhaven/"
+
+theme: minima
+
 minima:
   skin: classic
   include_css:
     - assets/css/styles.css
 
+markdown: kramdown
