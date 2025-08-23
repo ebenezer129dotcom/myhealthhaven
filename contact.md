@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 layout: default
+
 Contact My Health Haven
 
 Have questions or want to share your health journey? Fill out the form below to get in touch!<form action="https://formspree.io/f/your-unique-id" method="POST">
