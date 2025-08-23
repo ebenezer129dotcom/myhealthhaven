@@ -10,4 +10,3 @@ layout: home
 ---
 Welcome to My Health Haven! Explore our blog for practical health and fitness tips to help you live a better life.
 
-![Person exercising](/images/Homepage.jpg)
