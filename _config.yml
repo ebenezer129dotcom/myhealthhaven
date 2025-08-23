@@ -1,1 +1,6 @@
-theme: minima
+title: MyHealthHaven
+description: Your go-to resource for health and wellness information.
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
